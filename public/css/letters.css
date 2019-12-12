@@ -1,0 +1,84 @@
+
+.navbar-logo {
+    max-width: 140px;
+    vertical-align: -webkit-baseline-middle;
+    position: relative;
+    left: 15px;
+}
+
+.profile-img {
+    width:55px;
+}
+
+.profile-img > img {
+    border-radius: 50% !important;
+}
+
+.blue {
+  color: #4AA0DE;
+}
+
+.bg-blue {
+  background-color: #4AA0DE;
+}
+
+.red {
+  color: #EE6763;
+}
+
+.bg-red {
+  background-color:	#EE6763;
+}
+
+.sidebar {
+  box-shadow: none !important;
+}
+
+.active {
+    background: rgba(200, 200, 200, 0.315);
+    width:85%;
+}
+
+
+.sidebar {
+  padding-top: 0px !important;
+}
+
+.sidebar-top {
+  width: 100%;
+  background-color: #4AA0DE;
+  text-align: center;
+  padding: 20px;
+}
+
+.sidebar-top-item {
+  display: block;
+}
+
+.sidebar-top-h {
+  color: white;
+}
+
+.log-out {
+    position: relative;
+    margin-top:50%;
+    bottom: 30px;
+}
+.sidebar-sticky {
+  padding-top: 0px !important;
+}
+
+[role="main"] {
+  padding-top: 0px !important;
+}
+
+.form-control {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.sent-text > h1 {
+    position: relative;
+    color: #00A8EA;
+  }
+
